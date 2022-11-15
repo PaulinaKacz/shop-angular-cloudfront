@@ -7,8 +7,8 @@ env:
     BUILD_CONFIGURATION: "production"
 
     # AWS-specific variables:
-    S3_BUCKET: ""
-    CLOUDFRONT_DISTRIBUTION_ID: ""
+    S3_BUCKET: "source-artifacts-paulinakacz"
+    CLOUDFRONT_DISTRIBUTION_ID: "E1HYST7618EQTE"
 
 phases:
   install:
